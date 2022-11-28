@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>org.shenziang</groupId>
-    <artifactId>java-dadadog-demo</artifactId>
+    <artifactId>java-datadog-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>java-dadadog-demo</name>
-    <description>java-dadadog-demo</description>
+    <name>java-datadog-demo</name>
+    <description>java-datadog-demo</description>
     <properties>
         <java.version>11</java.version>
     </properties>
