@@ -1,4 +1,4 @@
-package org.shenziang.javadadadogdemo;
+package org.shenziang.javadatadogdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
